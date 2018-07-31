@@ -2,6 +2,8 @@
 This app is written in plain Ruby and uses MiniTest as the testing framework.
 `minitest-reporters` is used display the test output in a documentation format, similar to RSpec.
 
+Link to the challenge documentation: https://code.google.com/archive/p/marsrovertechchallenge/
+
 ## Assumptions
 * The lower bound of the grid will always start at 0, 0.
 * The input format will always be lines of strings
